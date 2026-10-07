@@ -41,6 +41,31 @@
   <tr>
     <td align="center"><a href="./tattoo_girl_pink.png"><img src="./tattoo_girl_pink.png" alt="tattoo_girl_pink" width="240"><br><sub>tattoo_girl_pink.png</sub></a></td>
     <td align="center"><a href="./yamadaryou.png"><img src="./yamadaryou.png" alt="yamadaryou" width="240"><br><sub>yamadaryou.png</sub></a></td>
+    <td align="center"><a href="./asuka_school_uniform_collage.jpg"><img src="./asuka_school_uniform_collage.jpg" alt="asuka_school_uniform_collage" width="240"><br><sub>asuka_school_uniform_collage.jpg</sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="./asuka_school_uniform_diagonal.jpg"><img src="./asuka_school_uniform_diagonal.jpg" alt="asuka_school_uniform_diagonal" width="240"><br><sub>asuka_school_uniform_diagonal.jpg</sub></a></td>
+    <td align="center"><a href="./asuka_plugsuit_red_circle.jpg"><img src="./asuka_plugsuit_red_circle.jpg" alt="asuka_plugsuit_red_circle" width="240"><br><sub>asuka_plugsuit_red_circle.jpg</sub></a></td>
+    <td align="center"><a href="./asuka_school_uniform_geometric.jpg"><img src="./asuka_school_uniform_geometric.jpg" alt="asuka_school_uniform_geometric" width="240"><br><sub>asuka_school_uniform_geometric.jpg</sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="./asuka_school_uniform_crossed_arms.jpg"><img src="./asuka_school_uniform_crossed_arms.jpg" alt="asuka_school_uniform_crossed_arms" width="240"><br><sub>asuka_school_uniform_crossed_arms.jpg</sub></a></td>
+    <td align="center"><a href="./asuka_plugsuit_red_sea.jpg"><img src="./asuka_plugsuit_red_sea.jpg" alt="asuka_plugsuit_red_sea" width="240"><br><sub>asuka_plugsuit_red_sea.jpg</sub></a></td>
+    <td align="center"><a href="./asuka_plugsuit_red_sea_profile.jpg"><img src="./asuka_plugsuit_red_sea_profile.jpg" alt="asuka_plugsuit_red_sea_profile" width="240"><br><sub>asuka_plugsuit_red_sea_profile.jpg</sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="./asuka_plugsuit_typography.jpg"><img src="./asuka_plugsuit_typography.jpg" alt="asuka_plugsuit_typography" width="240"><br><sub>asuka_plugsuit_typography.jpg</sub></a></td>
+    <td align="center"><a href="./asuka_school_uniform_red_diagonal.jpg"><img src="./asuka_school_uniform_red_diagonal.jpg" alt="asuka_school_uniform_red_diagonal" width="240"><br><sub>asuka_school_uniform_red_diagonal.jpg</sub></a></td>
+    <td align="center"><a href="./miku_flying.png"><img src="./miku_flying.png" alt="miku_flying" width="240"><br><sub>miku_flying.png</sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="./whitesur_dark.jpg"><img src="./whitesur_dark.jpg" alt="whitesur_dark" width="240"><br><sub>whitesur_dark.jpg</sub></a></td>
+    <td align="center"><a href="./whitesur_light.jpg"><img src="./whitesur_light.jpg" alt="whitesur_light" width="240"><br><sub>whitesur_light.jpg</sub></a></td>
+    <td align="center"><a href="./yamadaryou_glasses_headphones.png"><img src="./yamadaryou_glasses_headphones.png" alt="yamadaryou_glasses_headphones" width="240"><br><sub>yamadaryou_glasses_headphones.png</sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="./yamadaryou_glasses_headphones_smoke.png"><img src="./yamadaryou_glasses_headphones_smoke.png" alt="yamadaryou_glasses_headphones_smoke" width="240"><br><sub>yamadaryou_glasses_headphones_smoke.png</sub></a></td>
+    <td align="center"><a href="./yamadaryou_glasses_headphones_smoke_16_9.png"><img src="./yamadaryou_glasses_headphones_smoke_16_9.png" alt="yamadaryou_glasses_headphones_smoke_16_9" width="240"><br><sub>yamadaryou_glasses_headphones_smoke_16_9.png</sub></a></td>
     <td></td>
   </tr>
 </table>
